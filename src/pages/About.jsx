@@ -380,16 +380,16 @@ const About = () => {
               </p>
               <div className="social-icon flex gap-5 sm:gap-6 lg:gap-8">
                 <li className="list-none transform duration-300 hover:scale-105">
-                  <a href="https://www.facebook.com/eliyat.thapamagar/"><img src={facebook} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="Facebook" /></a>
+                  <a href="https://www.facebook.com/sujal.rijal.806930"><img src={facebook} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="Facebook" /></a>
                 </li>
                 <li className="list-none transform duration-300 hover:scale-105">
-                  <a href="https://www.instagram.com/eliyat_magar79/"><img src={instagram} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="Instagram" /></a>
+                  <a href="https://www.instagram.com/sujalrijal__/"><img src={instagram} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="Instagram" /></a>
                 </li>
                 <li className="list-none transform duration-300 hover:scale-105">
-                  <a href="https://github.com/EliyatMagar"><img src={github} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="GitHub" /></a>
+                  <a href="https://github.com/Rijalsujal1"><img src={github} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="GitHub" /></a>
                 </li>
                 <li className="list-none transform duration-300 hover:scale-105">
-                  <a href="https://www.linkedin.com/in/eliyat-thapa-magar-ba06472b3/"><img src={linkedin} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="LinkedIn" /></a>
+                  <a href="https://www.linkedin.com/in/sujalrijal/"><img src={linkedin} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="LinkedIn" /></a>
                 </li>
               </div>
             </div>
