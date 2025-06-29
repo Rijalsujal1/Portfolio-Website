@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 https://rijalsujal1.github.io/portfolio/
+
+
+## 🧑‍💻 Author
+Sujal Rijal
