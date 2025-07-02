@@ -339,14 +339,17 @@ import facebook from '../assets/facebook.png';
 import github from '../assets/github-1.png';
 import instagram from '../assets/instagram.png';
 import linkedin from '../assets/linkedin.png';
-import react from '../assets/react.png';
-import node from '../assets/nodejs.svg';
-import mongo from '../assets/mongo.png';
-import js from '../assets/js.png'
-import next from '../assets/next.png';
-import express from '../assets/express.png';
+import python from '../assets/python.png';
 import mysql from '../assets/mysql.png';
-import typescript from '../assets/typescript.png';
+import excel from '../assets/excel.png';
+import powerbi from '../assets/powerbi.png'
+import tableau from '../assets/tableau.png';
+import postgre from '../assets/postgre.png';
+import html from '../assets/html.png'
+import css from '../assets/css.png'
+import js from '../assets/js.png'
+import react from '../assets/react.png';
+
 
 const About = () => {
   return (
@@ -373,11 +376,12 @@ const About = () => {
           <div className="about-right flex flex-col gap-5 lg:gap-14">
             <div className="about-para flex flex-col gap-5 text-base sm:text-lg lg:text-xl font-medium text-gray-700">
               <p>
-                Hello, I'm Sujal Rijal, a React Enthusiast with a passion for creating dynamic and responsive web applications.
+                Hello, I'm Sujal Rijal, an aspiring Data Analyst passionate about transforming data into actionable insights.
               </p>
               <p>
-                I am constantly learning and keeping up with the latest industry trends and best practices.My goal is to deliver high-quality code and innovative solutions that meet client needs and exceed their expectations.Whether working independently or as part of a collective team,I bring a problem-solving mindset and a commitment to excellence to every project.
+                I continuously learn and stay updated with the latest tools and techniques in data analysis and visualization. My goal is to deliver meaningful, data-driven solutions that support informed decision-making. Whether working independently or collaboratively, I bring a strong analytical mindset and dedication to quality in every project.
               </p>
+
               <div className="social-icon flex gap-5 sm:gap-6 lg:gap-8">
                 <li className="list-none transform duration-300 hover:scale-105">
                   <a href="https://www.facebook.com/sujal.rijal.806930"><img src={facebook} className="w-6 h-6 sm:w-8 sm:h-8 lg:w-10 lg:h-10" alt="Facebook" /></a>
@@ -396,29 +400,47 @@ const About = () => {
             <div className="about-skills flex flex-col gap-5">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl font-semibold">Skills</h1>
               <div className="skills-image flex flex-wrap gap-4 md:gap-6">
+
+
+
                 <li className="list-none">
-                  <img src={react} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="React" />
+                  <img src={python} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Python" />
                 </li>
-                <li className="list-none">
-                  <img src={node} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Node.js" />
-                </li>
-                <li className="list-none">
-                  <img src={mongo} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="MongoDB" />
-                </li>
-                <li className="list-none">
-                  <img src={express} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Express" />
-                </li>
-                <li className="list-none">
-                  <img src={js} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Express" />
-                </li>
-                <li className="list-none">
-                  <img src={next} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Next.js" />
-                </li>
-                <li className="list-none">
-                  <img src={typescript} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="TypeScript" />
-                </li>
+
                 <li className="list-none">
                   <img src={mysql} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="MySQL" />
+                </li>
+
+                <li className="list-none">
+                  <img src={postgre} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="PostgreSQL" />
+                </li>
+
+                <li className="list-none">
+                  <img src={excel} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Excel" />
+                </li>
+
+                <li className="list-none">
+                  <img src={powerbi} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Power BI" />
+                </li>
+
+                <li className="list-none">
+                  <img src={tableau} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Tableau" />
+                </li>
+
+                <li className="list-none">
+                  <img src={html} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="HTML" />
+                </li>
+
+                <li className="list-none">
+                  <img src={css} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="CSS" />
+                </li>
+
+                <li className="list-none">
+                  <img src={js} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="JavaScript" />
+                </li>
+
+                <li className="list-none">
+                  <img src={react} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="React" />
                 </li>
               </div>
             </div>

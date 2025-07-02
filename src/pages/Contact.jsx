@@ -50,9 +50,7 @@ const Contact = () => {
             Let's talk
           </h1>
           <p className="max-w-xl text-gray-400 text-base sm:text-lg lg:text-xl leading-6 lg:leading-7">
-            I'm currently available to take on new projects, so feel free to
-            send me a message about anything that you want me to work on. You
-            can contact me anytime.
+            I'm currently open to internship opportunities and data-focused roles where I can apply my analytical skills to real-world problems. Feel free to reach out if you have a project, role, or collaboration in mind—I'm always excited to contribute and grow.
           </p>
           <div className="contact-details flex flex-col gap-4 text-gray-400 text-base sm:text-lg lg:text-xl">
             <div className="contact-detail flex items-center justify-center lg:justify-start gap-3">

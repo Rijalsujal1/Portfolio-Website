@@ -18,8 +18,8 @@ const Hero = () => {
           <span>I'm Sujal Rijal </span>
           <br />
           <ReactTyped
-            strings={['React Enthusiast', "Frontend Developer", "Problem Solver",
-              "Content Creator",
+            strings={['Data Enthusiast', "BI Developer", "Data Analyst",
+              "Problem Solver", "Critical Thinker",
             ]}
             typeSpeed={80}
             backSpeed={80}
@@ -27,7 +27,7 @@ const Hero = () => {
           />
         </h1>
         <p className="mt-4 md:mt-6 lg:mt-7 text-lg md:text-xl leading-relaxed">
-          I am a React Enthusiast from Kathmandu, Nepal.
+          I am a Data Enthusiast from Kathmandu, Nepal.
         </p>
         <div className="flex flex-col md:flex-row items-center justify-center  gap-6 text-lg md:text-xl font-semibold mt-5">
           <div className="px-8 py-4 rounded-xl cursor-pointer  text-white bg-gradient-to-r from-[#df8908] to-[#b415ff] text-base sm:text-lg lg:text-xl font-medium transition-transform duration-300 transform hover:scale-105 ">

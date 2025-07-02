@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-top-left flex flex-col items-center lg:items-start text-center lg:text-left gap-4">
           <img src={footer_logo} alt="Footer Logo" className="w-[200px] lg:w-[200px] mt-[40px]" />
           <p className='text-lg lg:text-2xl max-w-[400px]'>
-            I am a React Enthusiast from Nepal.
+            I am a Data Enthusiast from Nepal.
           </p>
         </div>
         <div className="footer-top-right flex flex-col sm:flex-row items-center gap-4 lg:gap-8">
