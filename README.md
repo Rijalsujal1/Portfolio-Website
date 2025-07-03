@@ -4,6 +4,9 @@ A personal portfolio website built with [your framework/library here, e.g., Reac
 
 ## Live Preview
 
+https://Rijalsujal1.github.io/portfolio
+
+
 You can run the project locally at:  
 `http://localhost:5173/portfolio/`
 
