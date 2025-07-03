@@ -24,26 +24,22 @@ You can run the project locally at:
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/your-username/portfolio.git
 cd portfolio
 
 
 Install dependencies:
 
-bash
 npm install
 Run the development server:
 
-bash
 npm run dev
 Open your browser and visit:
 
-bash
 http://localhost:5173/portfolio/
 Build for Production
 
-bash
 npm run build
 Deployment
 ```
