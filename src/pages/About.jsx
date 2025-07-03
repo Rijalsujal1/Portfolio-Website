@@ -427,13 +427,13 @@ const About = () => {
                   <img src={tableau} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="Tableau" />
                 </li>
 
-                <li className="list-none">
+                {/* <li className="list-none">
                   <img src={html} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="HTML" />
                 </li>
 
                 <li className="list-none">
                   <img src={css} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="CSS" />
-                </li>
+                </li> */}
 
                 <li className="list-none">
                   <img src={js} className="w-12 h-12 sm:w-16 sm:h-16 lg:w-20 lg:h-20" alt="JavaScript" />
